@@ -1,0 +1,18 @@
+{
+  "name": "azure-webapp",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for Azure",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "depvim endencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
